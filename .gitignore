@@ -1,0 +1,9 @@
+# Fluid cache
+cache_*/
+*.vdb
+
+# Blender cache
+blendcache_*/
+
+# Temporary
+*.tmp
