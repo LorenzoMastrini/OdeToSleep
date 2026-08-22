@@ -7,3 +7,5 @@ blendcache_*/
 
 # Temporary
 *.tmp
+
+textures/HDRI/NightSkyHDRI001_16K_HDR.exr
